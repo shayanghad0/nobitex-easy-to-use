@@ -1,0 +1,8 @@
+{
+    "name": "name",
+    "last_name": "last_name",
+    "phone_number":  "09120000000",
+    "email": "email@example.com",
+    "irt_balance": 0.0,
+    "usdt_balance": 0.0
+}
